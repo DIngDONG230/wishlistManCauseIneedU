@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @wishlistManCauseIneedU
-- GameDev
+- os development
+- low level
+- video games
 - programming
 - dm me on discord
 
